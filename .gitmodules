@@ -1,0 +1,3 @@
+[submodule "WPF.Libs"]
+	path = WPF.Libs
+	url = ../WPF.Libs.git
